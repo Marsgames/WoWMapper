@@ -1,0 +1,1 @@
+print("WoWMapper is ready !")
