@@ -36,6 +36,7 @@ Localizations\frFR.lua
 
 ########## Addon ##########
 WoWMapper.lua
+WM_Lib.lua
 Commands\WM_SlashMethods.lua
 Commands\WM_Slash.lua
 WM_Events.lua
