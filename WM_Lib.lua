@@ -1,5 +1,3 @@
-
-
 local capitalCity = {}
 
 capitalCity.Orgrimmar = {}
@@ -16,8 +14,19 @@ capitalCity.Stormwind["Affiliation"] = "Alliance"
 capitalCity.Stormwind["Location"] = "Royaumes de l'Est"
 capitalCity.Stormwind["Races"] = {"Humains"}
 capitalCity.Stormwind["Ruler"] = "Anduin Wrynn"
-capitalCity.Stormwind["Description"] = "La cité de Hurlevent est le plus important bastion des humains en Azeroth, située dans la forêt d'Elwynn. Après la Seconde guerre, Hurlevent est une merveille d'architecture et de maçonnerie humaines. Les gardes assurent la sécurité à l'intérieur des murs de la ville, et le roi Varian Wrynn dirige son peuple du haut de son imposant donjon. Alors que le commerce bat son plein dans les rues du quartier commerçant, les aventuriers de toutes sortes se promènent dans les rues de la Vieille Ville, survivante du pillage de la cité lors de la Seconde guerre. Non affectée par les ravages du Fléau au nord, Hurlevent doit faire face à différentes menaces venant de l'intérieur comme de l'extérieur.
-Hurlevent est la dernière grande ville humaine à avoir été reconstruite. Elle s'est proclamée ultime place-forte de l'humanité, après l'invasion de la Légion ardente au nord des Royaumes de l'est. Avec Lordaeron entre les mains des Réprouvés, et de nombreuses villes en ruine, Hurlevent reste un lieu de commerce où les membres de l'Alliance sont en sécurité.
-L'entrée de Hurlevent a été conçue pour rendre hommage aux héros morts durant la guerre. Des statues au nom de différents héros flanquent l'accès. Toute personne qui emprunte ce chemin, nommé la Vallée des Héros, ne peut que se sentir fière d'appartenir à l'Alliance."
+capitalCity.Stormwind["Description"] = "La cité de Hurlevent est le plus important bastion des humains en Azeroth, située dans la forêt d'Elwynn. Après la Seconde guerre, Hurlevent est une merveille d'architecture et de maçonnerie humaines. Les gardes assurent la sécurité à l'intérieur des murs de la ville, et le roi Varian Wrynn dirige son peuple du haut de son imposant donjon. Alors que le commerce bat son plein dans les rues du quartier commerçant, les aventuriers de toutes sortes se promènent dans les rues de la Vieille Ville, survivante du pillage de la cité lors de la Seconde guerre. Non affectée par les ravages du Fléau au nord, Hurlevent doit faire face à différentes menaces venant de l'intérieur comme de l'extérieur.\nHurlevent est la dernière grande ville humaine à avoir été reconstruite. Elle s'est proclamée ultime place-forte de l'humanité, après l'invasion de la Légion ardente au nord des Royaumes de l'est. Avec Lordaeron entre les mains des Réprouvés, et de nombreuses villes en ruine, Hurlevent reste un lieu de commerce où les membres de l'Alliance sont en sécurité.\nL'entrée de Hurlevent a été conçue pour rendre hommage aux héros morts durant la guerre. Des statues au nom de différents héros flanquent l'accès. Toute personne qui emprunte ce chemin, nommé la Vallée des Héros, ne peut que se sentir fière d'appartenir à l'Alliance."
 
+--[[
+Orgrimmar --> Pitons du tonnère : zep
+Pitons du tonnère --> Ogrimmar : zep
 
+Orgrimmar --> Fossoyeuse : TP orgri
+Fossoyeuse --> Orgrimmar : ?
+
+Pitons du tonnère --> Fossoyeuse : ?
+Fossyeuse --> Pitons du tonnère : TP pour orgi puis zep
+
+Hurlevent --> Silithus : TP uldum (75.20, 20.00) + vol jusqu'à Silithus 
+
+]]
+ --
